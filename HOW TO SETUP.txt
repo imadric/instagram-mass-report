@@ -1,0 +1,3 @@
+Hey, like any Python file you can set this up bu going into the directory
+that you've put the files in (i.e. "cd home/root/reportbot")
+after that you can easily type "python reportbot.py" then you will be set.
